@@ -6,6 +6,10 @@
 # ► It may have digits in groups of , separated by one hyphen "-".
 # ► It must NOT use any other separator like ' ' , '_', etc.
 # ► It must NOT have or more consecutive repeated digits. 
+#useful ressources
+#   https://buzut.fr/la-puissance-des-regex/
+#   https://regex101.com/
+#   https://regexone.com/lesson
 import re
 
 def re_Verif(string):
